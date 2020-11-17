@@ -1,2 +1,2 @@
-# PythonMiniProject
-This file contains mini projects done in python from online courses
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
